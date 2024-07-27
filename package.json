@@ -20,7 +20,7 @@
     "onboard"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.5",
+    "bootstrap": "^4.0.0",
     "cssify": "^0.4.2",
     "fingerprintjs": "^0.5.3",
     "formatter.js": "https://github.com/dosten/formatter/tarball/7fa267e5e52f0b45bcd1c50c68189b1a61db27a2"
